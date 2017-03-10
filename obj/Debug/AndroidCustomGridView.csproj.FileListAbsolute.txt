@@ -1,0 +1,99 @@
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.pdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.AndroidCustomGridView.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.AndroidCustomGridView-Signed.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.dll
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.pdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\bin\AndroidCustomGridView.AndroidCustomGridView.apk
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\layout\main.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\values\strings.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\drawable\icon.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\drawable\sound.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\drawable\list.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\drawable\location.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\drawable\note.png
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\values\style.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\values-v21\style.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\R.cs.flag
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\uploadflags.txt
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\res\layout\gridview_layout.xml
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Java.Interop.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\Mono.Android.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\mscorlib.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.Core.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.Net.Http.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.Xml.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\AndroidCustomGridView.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+c:\users\reale\documents\visual studio 2015\Projects\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.pdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.AndroidCustomGridView.apk
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.AndroidCustomGridView-Signed.apk
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.csprojResolveAssemblyReference.cache
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.dll
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.pdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\bin\AndroidCustomGridView.AndroidCustomGridView.apk
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\layout\gridview_layout.xml
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\layout\main.xml
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\values\strings.xml
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\icon.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\values\style.xml
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\values-v21\style.xml
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\R.cs.flag
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\uploadflags.txt
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Java.Interop.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\Mono.Android.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\mscorlib.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.Core.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.Xml.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\AndroidCustomGridView.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\camera.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\image.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\model.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\photos.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\res\drawable\splash.png
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\obj\Debug\AndroidCustomGridView.dll.mdb
+C:\Users\joshua josh\Downloads\AndroidCustomGridView\AndroidCustomGridView\bin\Debug\AndroidCustomGridView.dll.mdb

@@ -145,5 +145,6 @@ C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\android\as
 C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\res\drawable\praise.jpg
 C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\obj\Debug\AndroidCustomGridView.dll.mdb
 C:\Users\joshua josh\Desktop\AndroidCustomGridView\vstylist\bin\Debug\AndroidCustomGridView.dll.mdb

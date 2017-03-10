@@ -15,10 +15,13 @@
         android:background="?attr/colorPrimary"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
         local:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
-    <RelativeLayout
-        android:padding="16dp"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content">
+  <ImageView
+   android:src="@drawable/praise"
+   android:background="@color/material_grey_300"
+   android:layout_width="match_parent"
+   android:scaleType="centerCrop"
+   android:layout_height="150dp"
+    />
         <GridView
             android:id="@+id/grid_view_image_text"
             android:layout_width="match_parent"
@@ -26,5 +29,4 @@
             android:columnWidth="110dp"
             android:gravity="center"
             android:numColumns="auto_fit" />
-    </RelativeLayout>
 </LinearLayout>

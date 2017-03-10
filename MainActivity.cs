@@ -11,17 +11,21 @@ using Android.Support.V7.App;
 
 namespace AndroidCustomGridView
 {
-    [Activity(Label = "vstylist", MainLauncher = false, Icon = "@drawable/splash", Theme = "@style/MyTheme")]
+    [Activity(Label = "vstylist",
+        MainLauncher = true,
+        Icon = "@drawable/splash",
+        Theme = "@style/MyTheme")]
     public class MainActivity : AppCompatActivity
     {
         GridView gridView;
         string[] gridViewString = {
-            "Camera","image","model","photos",
-            
+            "Camera","image","model","photos","image","model"
+
         };
 
         int[] imageId = {
-            Resource.Drawable.camera,Resource.Drawable.image,Resource.Drawable.model,Resource.Drawable.photos
+            Resource.Drawable.camera,Resource.Drawable.model,Resource.Drawable.image,Resource.Drawable.photos,
+            Resource.Drawable.image,Resource.Drawable.model
         };
         protected override void OnCreate(Bundle bundle)
         {

@@ -1606,12 +1606,13 @@ containing a value of this type.
         public static int abc_textfield_search_activated_mtrl_alpha=0x7f020048;
         public static int abc_textfield_search_default_mtrl_alpha=0x7f020049;
         public static int abc_textfield_search_material=0x7f02004a;
-        public static int icon=0x7f02004b;
-        public static int list=0x7f02004c;
-        public static int location=0x7f02004d;
-        public static int note=0x7f02004e;
-        public static int notification_template_icon_bg=0x7f020050;
-        public static int sound=0x7f02004f;
+        public static int camera=0x7f02004b;
+        public static int icon=0x7f02004c;
+        public static int image=0x7f02004d;
+        public static int model=0x7f02004e;
+        public static int notification_template_icon_bg=0x7f020051;
+        public static int photos=0x7f02004f;
+        public static int splash=0x7f020050;
     }
     public static final class id {
         public static int action0=0x7f0b0054;

@@ -1790,7 +1790,6 @@ containing a value of this type.
         public static final int AlertDialog_AppCompat_Light=0x7f080087;
         public static final int Animation_AppCompat_Dialog=0x7f080088;
         public static final int Animation_AppCompat_DropDownUp=0x7f080089;
-        public static final int AppCompatDialogStyle=0x7f080141;
         public static final int Base_AlertDialog_AppCompat=0x7f08008a;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f08008b;
         public static final int Base_Animation_AppCompat_Dialog=0x7f08008c;
@@ -1933,11 +1932,17 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_TextView_SpinnerItem=0x7f080078;
         public static final int Base_Widget_AppCompat_Toolbar=0x7f0800b5;
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f080079;
-        public static final int MainTheme=0x7f08013e;
-        /**  Base theme applied no matter what API 
- Base theme applied no matter what API 
+        /** 
+        Base application theme for API 21+. This theme replaces
+        MyTheme from res/values/styles.xml on API 21+ devices.
+    
          */
-        public static final int MainTheme_Base=0x7f080140;
+        public static final int MyTheme=0x7f08013e;
+        /**  Base theme applied no matter what API 
+ You can also set colorControlNormal, colorControlActivated
+         colorControlHighlight and colorSwitchThumbNormal. 
+         */
+        public static final int MyTheme_Base=0x7f08013f;
         public static final int Platform_AppCompat=0x7f080017;
         public static final int Platform_AppCompat_Light=0x7f080018;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f08007a;
@@ -2035,7 +2040,6 @@ containing a value of this type.
         public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0800f0;
         public static final int Theme_AppCompat_Light_NoActionBar=0x7f0800f1;
         public static final int Theme_AppCompat_NoActionBar=0x7f0800f2;
-        public static final int Theme_Splash=0x7f08013f;
         public static final int ThemeOverlay_AppCompat=0x7f0800f3;
         public static final int ThemeOverlay_AppCompat_ActionBar=0x7f0800f4;
         public static final int ThemeOverlay_AppCompat_Dark=0x7f0800f5;

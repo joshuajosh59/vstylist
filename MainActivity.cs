@@ -6,27 +6,22 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
-using Android.App;
-using Android.OS;
 using Android.Support.V7.App;
-using Android.Widget;
+
 
 namespace AndroidCustomGridView
 {
-    [Activity(Label = "vstylist", MainLauncher = false, Icon = "@drawable/icon", Theme = "@style/MyTheme")]
+    [Activity(Label = "vstylist", MainLauncher = false, Icon = "@drawable/splash", Theme = "@style/MyTheme")]
     public class MainActivity : AppCompatActivity
     {
         GridView gridView;
         string[] gridViewString = {
             "Camera","image","model","photos",
-             "Camera","image","model","photos",
-              "Camera","image","model","photos",
+            
         };
 
         int[] imageId = {
-            Resource.Drawable.camera,Resource.Drawable.image,Resource.Drawable.model,Resource.Drawable.photos,
-             Resource.Drawable.camera,Resource.Drawable.image,Resource.Drawable.model,Resource.Drawable.photos,
-              Resource.Drawable.camera,Resource.Drawable.image,Resource.Drawable.model,Resource.Drawable.photos
+            Resource.Drawable.camera,Resource.Drawable.image,Resource.Drawable.model,Resource.Drawable.photos
         };
         protected override void OnCreate(Bundle bundle)
         {

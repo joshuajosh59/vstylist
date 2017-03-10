@@ -2024,9 +2024,6 @@ namespace AndroidCustomGridView
 			// aapt resource value: 0x7f080089
 			public const int Animation_AppCompat_DropDownUp = 2131230857;
 			
-			// aapt resource value: 0x7f080141
-			public const int AppCompatDialogStyle = 2131231041;
-			
 			// aapt resource value: 0x7f08008a
 			public const int Base_AlertDialog_AppCompat = 2131230858;
 			
@@ -2454,10 +2451,10 @@ namespace AndroidCustomGridView
 			public const int Base_Widget_AppCompat_Toolbar_Button_Navigation = 2131230841;
 			
 			// aapt resource value: 0x7f08013e
-			public const int MainTheme = 2131231038;
+			public const int MyTheme = 2131231038;
 			
-			// aapt resource value: 0x7f080140
-			public const int MainTheme_Base = 2131231040;
+			// aapt resource value: 0x7f08013f
+			public const int MyTheme_Base = 2131231039;
 			
 			// aapt resource value: 0x7f080017
 			public const int Platform_AppCompat = 2131230743;
@@ -2749,9 +2746,6 @@ namespace AndroidCustomGridView
 			
 			// aapt resource value: 0x7f0800f2
 			public const int Theme_AppCompat_NoActionBar = 2131230962;
-			
-			// aapt resource value: 0x7f08013f
-			public const int Theme_Splash = 2131231039;
 			
 			// aapt resource value: 0x7f0800f3
 			public const int ThemeOverlay_AppCompat = 2131230963;
